@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:id="@+id/isplash"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:contentDescription=""
+        android:src="@drawable/splash"
+        tools:ignore="ContentDescription"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/isplash"
+        android:layout_alignLeft="@+id/isplash"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/isplash"
+        android:layout_alignStart="@+id/isplash"
+        android:layout_marginTop="30dp"
+        android:fontFamily="casual"
+        android:text="**ALVIS**"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="Android App powered by Microsoft Cognitive Service"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/isplash"
+        android:layout_alignLeft="@+id/isplash"
+        android:layout_alignStart="@+id/isplash" />
+</RelativeLayout>
