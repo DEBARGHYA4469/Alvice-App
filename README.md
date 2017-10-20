@@ -9,7 +9,7 @@ The app can send the extracted string through query and get wikipedia summary of
 
 The APK of file can be downloaded from this <a href="https://drive.google.com/open?id=0B0CwmRhMKkKXanRsc0I4Y1VkLTA">drive</a>
 
-Also full package can be accessible from this<a href="https://drive.google.com/open?id=0B0CwmRhMKkKXNUpZZkxpcFR1M0E">Google Drive</a>
+Also full package can be accessible from this<a href="https://drive.google.com/open?id=0B0CwmRhMKkKXNUpZZkxpcFR1M0E"> Google Drive</a>
 
 
 
