@@ -7,10 +7,6 @@ The app takes a picture from a live android phone Camera,processes it with the h
   
 The app can send the extracted string through query and get wikipedia summary of the text from <b>Flask-</b>powered WebApp speacially designed for this purpose.
 
-The APK of file can be downloaded from this <a href="https://drive.google.com/open?id=0B0CwmRhMKkKXanRsc0I4Y1VkLTA">drive</a>
-
-Also full package can be accessible from this<a href="https://drive.google.com/open?id=0B0CwmRhMKkKXNUpZZkxpcFR1M0E"> Google Drive</a>
-
 
 
 <h2>Bugs and Crash Issues</h2></ul>
